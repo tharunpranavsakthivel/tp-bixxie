@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @tp-bixxie
-- 👀 I’m interested in Machine Learning, Web Development, and advance Artificial Intelligence. 
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Neural Network based development
-- 📫 How to reach me... Contact via e-mail
+- 👋 Hi
+
 
 <!---
 tp-bixxie/tp-bixxie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
